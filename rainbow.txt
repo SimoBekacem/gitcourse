@@ -4,3 +4,4 @@ orange
 yellow
 green
 violet
+black
