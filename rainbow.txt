@@ -8,4 +8,9 @@ black
 white
 gray
 pink
+<<<<<<< HEAD
 purple
+=======
+brown
+aqua
+>>>>>>> feature2
