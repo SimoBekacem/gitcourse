@@ -9,3 +9,4 @@ white
 gray
 pink
 brown
+aqua
