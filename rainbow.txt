@@ -13,4 +13,5 @@ brown
 aqua
 navy
 chibi
+sapphire
 
